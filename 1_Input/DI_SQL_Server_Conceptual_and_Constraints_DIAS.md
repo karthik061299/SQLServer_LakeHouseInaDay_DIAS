@@ -8,6 +8,7 @@ Description: Conceptual Data Model and Data Constraints for UTL (Utilization) Re
 
 ## 1. Domain Overview
 
-The primary business domain covered by these reports is **Resource Utilization and Time Management**. This domain encompasses:
+The primary business domain covered by these reports is **Workforce Utilization and Resource Management**. This domain encompasses:
 
-1. **Workforce Management** - Tracking employee allocations
+1. **Resource Allocation and Utilization Tracking** - Monitoring how resources (consultants and FTEs) are allocated across projects and their utilization rates
+2. **Timesheet Management** - Tracking submitted and approved hours across different billing types (Standard Time
